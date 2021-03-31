@@ -1,0 +1,35 @@
+.secondarySection {
+	height: calc(100% - padding);
+	width: calc(100% - padding);
+	padding: 6.8rem;
+	background: #f5f6fe;
+}
+
+.textContainer1 {
+	width: 75rem;
+	height: 17rem;
+}
+
+.textContainer2 {
+	width: 75rem;
+	height: 17rem;
+	margin: 7rem 0;
+	position: relative;
+	left: 54.5rem;
+}
+
+.textContainer3 {
+	width: 75rem;
+	height: 17rem;
+}
+
+.h2 {
+	font-size: 3.6rem;
+	color: #000d8f;
+	margin-bottom: 3rem;
+}
+
+.p {
+	font-size: 1.8rem;
+	color: #000d8f;
+}

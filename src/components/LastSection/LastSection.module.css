@@ -1,0 +1,66 @@
+.lastSection {
+	height: 100vh;
+	width: 100vw;
+	background: #1a2cea;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.card {
+	padding: 0;
+	height: 40.2rem;
+	width: 22.2rem;
+	display: flex;
+	flex-direction: column;
+}
+
+.circle {
+	height: 22.2rem;
+	width: 22.2rem;
+}
+
+.img1 {
+	width: 9.6rem;
+	height: 6.5rem;
+	position: relative;
+	top: 14rem;
+	left: 7rem;
+}
+
+.img2 {
+	width: 6.5rem;
+	height: 6.5rem;
+	position: relative;
+	top: 14rem;
+	left: 8rem;
+}
+
+.img3 {
+	width: 8.5rem;
+	height: 5.7rem;
+	position: relative;
+	top: 14.5rem;
+	left: 7.5rem;
+}
+
+.img4 {
+	width: 7rem;
+	height: 6rem;
+	position: relative;
+	top: 14rem;
+	left: 7.5rem;
+}
+
+.text {
+	color: #fff;
+	font-size: 2.4rem;
+	text-align: center;
+}
+
+.number {
+	text-align: center;
+	color: #fff;
+	font-size: 3.6rem;
+	font-weight: bold;
+}

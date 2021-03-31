@@ -1,0 +1,16 @@
+.footer {
+	padding: auto;
+	margin: 1rem 0;
+}
+
+.ul {
+	display: flex;
+	justify-content: center;
+}
+
+.li {
+	margin: 0 2rem;
+	list-style: none;
+	font-size: 2rem;
+	color: #1a2cea;
+}
