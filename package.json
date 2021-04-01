@@ -1,6 +1,6 @@
 {
-	"homepage": "https://jorgearguellles.github.io/Jamer-frontend",
-	"name": "jamer",
+	"homepage": "https://jorgearguellles.github.io/jamer-frontend",
+	"name": "JAMER Digitalaizer",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
