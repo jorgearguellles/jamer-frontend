@@ -2,12 +2,18 @@ import React from "react";
 import styles from "./MainSection.module.css";
 import faro from "../../img/faro.png";
 import bird from "../../img/bird.png";
+import starts from "../../img/starts.png";
 
 const MainSection = () => {
 	return (
 		<section className={styles.section}>
 			<div className={styles.left}>
 				<img className={styles.img} alt="Imagen del faro" src={faro} />
+				<img
+					className={styles.imgStarts}
+					alt="Imagen de las estrellas"
+					src={starts}
+				/>
 			</div>
 			<div className={styles.right}>
 				<div className={styles.birdsContainer}>

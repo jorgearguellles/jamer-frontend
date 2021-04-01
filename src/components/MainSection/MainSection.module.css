@@ -7,12 +7,19 @@
 .left {
 	width: 100%;
 	height: calc(100vh - 7.7rem);
-	display: flex;
-	justify-content: center;
 }
 
 .img {
 	height: 100%;
+	z-index: 1;
+	position: relative;
+	left: 21rem;
+}
+
+.imgStarts {
+	position: relative;
+	left: -36.3rem;
+	z-index: 0;
 }
 
 .right {
