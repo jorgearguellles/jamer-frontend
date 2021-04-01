@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jamer-frontend/static/css/main.45991565.chunk.css",
+    "main.js": "/Jamer-frontend/static/js/main.1c175bc8.chunk.js",
+    "main.js.map": "/Jamer-frontend/static/js/main.1c175bc8.chunk.js.map",
+    "runtime-main.js": "/Jamer-frontend/static/js/runtime-main.c19a6278.js",
+    "runtime-main.js.map": "/Jamer-frontend/static/js/runtime-main.c19a6278.js.map",
+    "static/js/2.38cd2f27.chunk.js": "/Jamer-frontend/static/js/2.38cd2f27.chunk.js",
+    "static/js/2.38cd2f27.chunk.js.map": "/Jamer-frontend/static/js/2.38cd2f27.chunk.js.map",
+    "index.html": "/Jamer-frontend/index.html",
+    "static/css/main.45991565.chunk.css.map": "/Jamer-frontend/static/css/main.45991565.chunk.css.map",
+    "static/js/2.38cd2f27.chunk.js.LICENSE.txt": "/Jamer-frontend/static/js/2.38cd2f27.chunk.js.LICENSE.txt",
+    "static/media/discGreen.a6d4edf1.png": "/Jamer-frontend/static/media/discGreen.a6d4edf1.png",
+    "static/media/faro.db2bd1a5.png": "/Jamer-frontend/static/media/faro.db2bd1a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c19a6278.js",
+    "static/js/2.38cd2f27.chunk.js",
+    "static/css/main.45991565.chunk.css",
+    "static/js/main.1c175bc8.chunk.js"
+  ]
+}
