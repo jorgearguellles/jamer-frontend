@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JAMER-Digitalizer/jamer-frontend/static/css/main.92ba522e.chunk.css",
+    "main.js": "/JAMER-Digitalizer/jamer-frontend/static/js/main.f594a811.chunk.js",
+    "main.js.map": "/JAMER-Digitalizer/jamer-frontend/static/js/main.f594a811.chunk.js.map",
+    "runtime-main.js": "/JAMER-Digitalizer/jamer-frontend/static/js/runtime-main.df5ea692.js",
+    "runtime-main.js.map": "/JAMER-Digitalizer/jamer-frontend/static/js/runtime-main.df5ea692.js.map",
+    "static/js/2.38cd2f27.chunk.js": "/JAMER-Digitalizer/jamer-frontend/static/js/2.38cd2f27.chunk.js",
+    "static/js/2.38cd2f27.chunk.js.map": "/JAMER-Digitalizer/jamer-frontend/static/js/2.38cd2f27.chunk.js.map",
+    "index.html": "/JAMER-Digitalizer/jamer-frontend/index.html",
+    "static/css/main.92ba522e.chunk.css.map": "/JAMER-Digitalizer/jamer-frontend/static/css/main.92ba522e.chunk.css.map",
+    "static/js/2.38cd2f27.chunk.js.LICENSE.txt": "/JAMER-Digitalizer/jamer-frontend/static/js/2.38cd2f27.chunk.js.LICENSE.txt",
+    "static/media/discGreen.a6d4edf1.png": "/JAMER-Digitalizer/jamer-frontend/static/media/discGreen.a6d4edf1.png",
+    "static/media/faro.db2bd1a5.png": "/JAMER-Digitalizer/jamer-frontend/static/media/faro.db2bd1a5.png",
+    "static/media/starts.45f6511a.png": "/JAMER-Digitalizer/jamer-frontend/static/media/starts.45f6511a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df5ea692.js",
+    "static/js/2.38cd2f27.chunk.js",
+    "static/css/main.92ba522e.chunk.css",
+    "static/js/main.f594a811.chunk.js"
+  ]
+}
